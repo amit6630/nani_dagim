@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "נאני דגים",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -313,7 +313,9 @@
     "siteUrl": false,
     "gdpr": false,
     "pwa-switcher": false,
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "global_footer_custom": "<script src=\"https://cdn.enable.co.il/licenses/enable-L25197m6h825pgny-0324-57265/init.js\"></script>",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HBV4BEP8ZE\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HBV4BEP8ZE');\n</script>"
   },
   "pages": {
     "index.html": {
