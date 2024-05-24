@@ -1,0 +1,49 @@
+@font-face {
+   font-family: 'Assistant';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///D:/%D7%91%D7%A0%D7%99%D7%99%D7%AA%20%D7%90%D7%AA%D7%A8%D7%99%D7%9D/GitHub/nani_dagim/fonts/Assistant/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Assistant';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///D:/%D7%91%D7%A0%D7%99%D7%99%D7%AA%20%D7%90%D7%AA%D7%A8%D7%99%D7%9D/GitHub/nani_dagim/fonts/Assistant/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Assistant';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///D:/%D7%91%D7%A0%D7%99%D7%99%D7%AA%20%D7%90%D7%AA%D7%A8%D7%99%D7%9D/GitHub/nani_dagim/fonts/Assistant/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Assistant';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///D:/%D7%91%D7%A0%D7%99%D7%99%D7%AA%20%D7%90%D7%AA%D7%A8%D7%99%D7%9D/GitHub/nani_dagim/fonts/Assistant/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Assistant';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///D:/%D7%91%D7%A0%D7%99%D7%99%D7%AA%20%D7%90%D7%AA%D7%A8%D7%99%D7%9D/GitHub/nani_dagim/fonts/Assistant/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Assistant';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///D:/%D7%91%D7%A0%D7%99%D7%99%D7%AA%20%D7%90%D7%AA%D7%A8%D7%99%D7%9D/GitHub/nani_dagim/fonts/Assistant/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Assistant';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///D:/%D7%91%D7%A0%D7%99%D7%99%D7%AA%20%D7%90%D7%AA%D7%A8%D7%99%D7%9D/GitHub/nani_dagim/fonts/Assistant/regular.ttf') format('truetype');
+}
