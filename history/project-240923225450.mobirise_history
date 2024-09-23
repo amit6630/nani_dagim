@@ -60,13 +60,13 @@
       "currency": "USD"
     },
     "favicon": false,
-    "mbrsiteDomain": "ew33wxrk80",
+    "mbrsiteDomain": "nnrvmjjrdy",
     "usedWebp": false,
     "cssOptimize": true,
     "lazyLoad": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": {
       "customDialogSelector": true,

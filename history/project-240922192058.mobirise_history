@@ -30,7 +30,7 @@
         "isGhostButtonBorder": true,
         "underlinedLinks": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#304e59",
@@ -60,13 +60,13 @@
       "currency": "USD"
     },
     "favicon": false,
-    "mbrsiteDomain": "ew33wxrk80",
+    "mbrsiteDomain": "jdru7jlndt",
     "usedWebp": false,
     "cssOptimize": true,
     "lazyLoad": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": {
       "customDialogSelector": true,
@@ -91,9 +91,9 @@
       "popupMessage": "                                                                        היי👋\n\n 🔥כאן נאני לכל שאלה מוזמנים ליצור קשר איתי בווצאפ\n\n",
       "showPopup": true,
       "showOnIE": true,
-      "autoOpenTimeout": "1",
+      "autoOpenTimeout": "0",
       "headerColor": "#39847a",
-      "headerTitle": "👋 נאני דגים",
+      "headerTitle": "👋 הנגרייה",
       "placeholder": "                                כתוב כאן",
       "zIndex": 10,
       "enabled": true
