@@ -1873,52 +1873,6 @@ a {
 .cid-u7d6iq0WcO .ornament {
   text-align: center;
 }
-.cid-u7z7t5msYy {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-  background-color: #d7ebf4;
-}
-.cid-u7z7t5msYy .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-u7z7t5msYy .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-u7z7t5msYy .card-box {
-  z-index: 10;
-  position: relative;
-}
-@media (min-width: 1500px) {
-  .cid-u7z7t5msYy .container {
-    max-width: 1400px;
-  }
-}
-.cid-u7z7t5msYy .card {
-  margin: auto;
-}
-.cid-u7z7t5msYy .mbr-iconfont {
-  display: block;
-  font-size: 5rem;
-  color: #6592e6;
-  margin-bottom: 2rem;
-}
-.cid-u7z7t5msYy .item-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.cid-u7z7t5msYy .row {
-  justify-content: center;
-}
-.cid-u7z7t5msYy H3 {
-  color: #002e50;
-}
 .cid-u7EPoBOiTH {
   padding-top: 4rem;
   padding-bottom: 6rem;
@@ -1977,8 +1931,54 @@ a {
 .cid-u7EPoBOiTH .mbr-section-btn {
   text-align: center;
 }
-.cid-uoxgNXz1Ju {
+.cid-unZmQi6mIf {
   z-index: 1;
+}
+.cid-u7z7t5msYy {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #d7ebf4;
+}
+.cid-u7z7t5msYy .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u7z7t5msYy .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u7z7t5msYy .card-box {
+  z-index: 10;
+  position: relative;
+}
+@media (min-width: 1500px) {
+  .cid-u7z7t5msYy .container {
+    max-width: 1400px;
+  }
+}
+.cid-u7z7t5msYy .card {
+  margin: auto;
+}
+.cid-u7z7t5msYy .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-u7z7t5msYy .item-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-u7z7t5msYy .row {
+  justify-content: center;
+}
+.cid-u7z7t5msYy H3 {
+  color: #002e50;
 }
 .cid-u7ze8ENFY3 {
   padding-top: 6rem;
@@ -3316,26 +3316,6 @@ a {
 }
 .cid-u7cVfF5iU5 .icon-text {
   color: #f92c50;
-}
-.cid-u7zbsky3R6 {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #d7ebf4;
-}
-.cid-u7zbsky3R6 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-u7zbsky3R6 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-u7zbsky3R6 .mbr-section-title {
-  color: #002e50;
 }
 .cid-u7SGwEVLNV {
   padding-top: -5rem;
