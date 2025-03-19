@@ -60,7 +60,7 @@
       "currency": "USD"
     },
     "favicon": false,
-    "mbrsiteDomain": "s4upm4jz8d",
+    "mbrsiteDomain": "tsekhc86ve",
     "usedWebp": false,
     "cssOptimize": true,
     "lazyLoad": true,
@@ -83,7 +83,7 @@
       "rejectText": "REJECT"
     },
     "chatbutton": {
-      "phone": "0524811031",
+      "phone": "+972524811031",
       "message": "",
       "size": "65px",
       "backgroundColor": "#e5ddd5",
