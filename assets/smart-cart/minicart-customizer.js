@@ -158,5 +158,5 @@ function rebuildWhatsappButton() {
     var old = container.querySelector("#cash-on-delivery");
     if (old) old.remove();
 
-    F();
+    F(); // בונה מחדש את כל כפתורי התשלום
 }
